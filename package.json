@@ -1,9 +1,9 @@
 {
-  "name": "music-bot",
+  "name": "Flow",
   "main": "main.js",
   "author": "SaifDev",
   "version": "6.0.0",
-  "repository": "https://github.com/SaifDev/Music-bot.git",
+  "repository": "https://github.com/KCTF202x/repo101",
   "description": "A complete code to download for a cool Discord music bot.",
   "scripts": {
     "start": "node main.js"
