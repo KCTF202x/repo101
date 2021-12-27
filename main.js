@@ -28,6 +28,6 @@ bot.on("guildMemberAdd", (member) => {
     .setAuthor(member.user.username, member.user.avatarURL())
     .setDescription(`Welcome Buddy!!!Have Fun!!`);
   bot.channel.cache.get(ctx).send(emb1);
-})
+});
 
 client.login(client.config.app.token);

@@ -4,7 +4,7 @@
   "author": "SaifDev",
   "version": "6.0.0",
   "repository": "https://github.com/KCTF202x/repo101",
-  "description": "A complete code to download for a cool Discord music bot.",
+  "description": "",
   "scripts": {
     "start": "node main.js"
   },
