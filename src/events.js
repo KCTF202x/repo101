@@ -25,4 +25,4 @@ player.on('channelEmpty', (queue) => {
 
 player.on('queueEnd', (queue) => {
     queue.metadata.send('I finished reading the whole queue ✅');
-})
+});
